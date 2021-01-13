@@ -1,5 +1,5 @@
 [
-  "best_product" : [
+  "best_product": [
     {
     "id": 1,
     "kode": "5ba3598b7851f50850b9b6e91cbabadf",
@@ -26,7 +26,8 @@
     "food": "Appetizer - Smoked Salmon / Dill",
     "harga": "$46.91"
   }],
-  "product" : [{
+  "product": [
+    {
     "id": 1,
     "kode": "71dcea0398b5d1da7fc3caa166d84b7c",
     "product": "Pepper - Paprika, Hungarian",
