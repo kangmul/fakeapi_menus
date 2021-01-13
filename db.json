@@ -1,0 +1,71 @@
+[
+  "best_product" : [
+    {
+    "id": 1,
+    "kode": "5ba3598b7851f50850b9b6e91cbabadf",
+    "food": "Pork - Tenderloin, Fresh",
+    "harga": "$90.46"
+  }, {
+    "id": 2,
+    "kode": "9ec5e8b6ed9e84928430db284cc202bf",
+    "food": "Jolt Cola - Electric Blue",
+    "harga": "$54.53"
+  }, {
+    "id": 3,
+    "kode": "cd2a786e678305131aa0169ad3158919",
+    "food": "Cake - Pancake",
+    "harga": "$45.22"
+  }, {
+    "id": 4,
+    "kode": "3e4af84eba5ff70363868f901da8b81d",
+    "food": "Chicken - Leg, Boneless",
+    "harga": "$37.64"
+  }, {
+    "id": 5,
+    "kode": "2ca2f67824e42b54824abcb342805d2d",
+    "food": "Appetizer - Smoked Salmon / Dill",
+    "harga": "$46.91"
+  }],
+  "product" : [{
+    "id": 1,
+    "kode": "71dcea0398b5d1da7fc3caa166d84b7c",
+    "product": "Pepper - Paprika, Hungarian",
+    "harga": "$93.61"
+  }, {
+    "id": 2,
+    "kode": "7f6169d779756c825a931b42e54407dd",
+    "product": "Oil - Food, Lacquer Spray",
+    "harga": "$99.56"
+  }, {
+    "id": 3,
+    "kode": "9d68dcaab6827a889bf91b20f84ccf08",
+    "product": "Red Cod Fillets - 225g",
+    "harga": "$65.86"
+  }, {
+    "id": 4,
+    "kode": "d86df446e0d0bf8ba98794833ce1affd",
+    "product": "Meldea Green Tea Liquor",
+    "harga": "$71.16"
+  }, {
+    "id": 5,
+    "kode": "018645fd89408f5486a4311f40ecc11a",
+    "product": "Island Oasis - Raspberry",
+    "harga": "$13.30"
+  }, {
+    "id": 6,
+    "kode": "b55c817f363a528a72a2d682dd78aa5c",
+    "product": "Beer - Corona",
+    "harga": "$22.46"
+  }, {
+    "id": 7,
+    "kode": "e4dbb98501be346a5dc3ad3ebda0a064",
+    "product": "Corn - On The Cob",
+    "harga": "$46.12"
+  }, {
+    "id": 8,
+    "kode": "1886e7f8266cdd03c499753080246da3",
+    "product": "Tea - Decaf Lipton",
+    "harga": "$18.19"
+  }]
+  
+]
